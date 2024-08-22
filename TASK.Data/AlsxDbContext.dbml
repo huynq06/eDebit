@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="eInvoice_ALSx" Class="AlsxDbContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.10.1.10;Initial Catalog=eInvoice_ALSx;User ID=sa" SettingsObjectName="TASK.Data.Properties.Settings" SettingsPropertyName="eInvoice_ALSxConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.InvoiceDetail" Member="InvoiceDetails">
+    <Type Name="InvoiceDetail">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Item" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Unit" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="UnitPrice" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="Amount" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="TaxRate" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="VAT" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InvoicePDF" Member="InvoicePDFs">
+    <Type Name="InvoicePDF">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PDF" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LogSentMessageAlsx" Member="LogSentMessageAlsxes">
+    <Type Name="LogSentMessageAlsx">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="LogMessage" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MessageType" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ResponseMessageAlsx" Member="ResponseMessageAlsxes">
+    <Type Name="ResponseMessageAlsx">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MsgReturn" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MesageType" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="InvoiceStatus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Invoice" Member="Invoices">
+    <Type Name="Invoice">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="InvoiceType" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceForm" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceSerial" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Payment" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TaxNo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceNumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="InvoiceTotalAmount" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="InvoiceTotalVatAmount" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="InvoiceTotalNoVatAmount" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="AWB" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Hawb" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="StaffName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Customer" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="TaxCode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Retry" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Canceled" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ExecuteCancel" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="CancelRetry" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sequence" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Reference" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceStatus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="InvoiceDescription" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CancelDateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ExceptionStatus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ObjectType" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Pieces" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="InvoiceFieldType" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceFieldForm" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceFieldSerial" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Idt" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InvoiceLink" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

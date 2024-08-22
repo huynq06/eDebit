@@ -1,0 +1,72 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\obj\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\obj\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\DATABASE.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATABASE\bin\Debug\Utils.pdb
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\DATABASE.dll.config
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\DATABASE.dll
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\DATABASE.pdb
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\Utils.dll
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.TASKMANAGER\DATABASE\bin\Debug\Utils.pdb
+D:\Dev\ALSC.TASKMANAGER\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.TASKMANAGER\DATABASE\obj\Debug\DATABASE.dll
+D:\Dev\ALSC.TASKMANAGER\DATABASE\obj\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.pdb
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll.config
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.pdb
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.dll
+D:\Dev\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.pdb
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll.config
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.pdb
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.dll
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.pdb
+E:\Dev\ALSC.eInvoice\DATABASE\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.dll
+E:\Dev\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.pdb
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll.config
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.dll
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\DATABASE.pdb
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.dll
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\TASK.Settings.pdb
+E:\Project\ALSC.eInvoice\DATABASE\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.dll
+E:\Project\ALSC.eInvoice\DATABASE\obj\Debug\DATABASE.pdb

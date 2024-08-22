@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 11.75" name="DebitContext">
+  <DataContextMoniker Name="/DebitContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="19bc4e37-b098-4354-8db7-ef6abf758dc8" absoluteBounds="3.25, 0.5, 2, 11.001365559895833">
+      <DataClassMoniker Name="/DebitContextDataContext/HermesDebit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1537df49-a842-4583-a18b-d9eef7711e7e" absoluteBounds="3.265, 0.96, 1.9700000000000002, 10.441365559895832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="85e2bb47-1760-44b9-bd79-de96c0d2821f" absoluteBounds="5.375, 0.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DebitContextDataContext/DebitCheckQuery" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f0822ca5-25dd-4bb0-9122-69eebf934815" absoluteBounds="5.39, 1.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72138213-7bcd-4567-805c-a1d6ecd8eaf9" absoluteBounds="0.75, 1.25, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/DebitContextDataContext/HermesDebitDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9974bb02-39d9-4b72-ba52-1cac5dcf9700" absoluteBounds="0.76500000000000012, 1.71, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

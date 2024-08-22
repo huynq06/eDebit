@@ -1,0 +1,49 @@
+=========2020-08-04 15:14:44=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032725956217
+
+=========2020-08-04 15:14:45=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032725952617
+
+=========2020-08-04 15:15:45=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032725964817
+
+=========2020-08-04 15:15:45=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032725971817
+
+=========2020-08-04 15:16:46=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032725990417
+
+=========2020-08-04 15:16:46=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032725978617
+
+=========2020-08-04 15:19:47=========
+System.Net.WebException: The request failed with HTTP status 403: Forbidden.
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at TASK.Service.vn.cinvoice.api.ALSService.ApiPHanhHDonKSo(String b_nsd, String b_mk, HDon HDon) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\Web References\vn.cinvoice.api\Reference.cs:line 141
+   at TASK.Service.EInvoiceConnectService.processData() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Service\EInvoiceConnectService.cs:line 48-----30032726010517
+

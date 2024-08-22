@@ -1,0 +1,42 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\Utils.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\Utils.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.TASKMANAGER\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.pdb
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.dll
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.pdb
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\Utils.dll
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\bin\Debug\Utils.pdb
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.dll
+D:\Dev\ALSC.TASKMANAGER\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.pdb
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.dll
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.pdb
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.dll
+D:\Dev\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.pdb
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.dll
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.pdb
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.dll
+E:\Dev\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.pdb
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.dll
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\PluggableModulesInterface.pdb
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.dll
+E:\Project\ALSC.eInvoice\PluggableModulesInterface\obj\Debug\PluggableModulesInterface.pdb

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9F75098-E25F-466C-91CF-103032B28608}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TASK.Business</RootNamespace>
+    <AssemblyName>TASK.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseTask.cs" />
+    <Compile Include="BaseTimer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="staticThread\EinvoiceAdditionalThread.cs" />
+    <Compile Include="staticThread\EinvoiceAlsxAddtionalThread.cs" />
+    <Compile Include="staticThread\EinvoiceAlsxAddtionalThreadTT78.cs" />
+    <Compile Include="staticThread\EinvoiceAlsxThread.cs" />
+    <Compile Include="staticThread\EInvoiceConnectThreadManagement.cs" />
+    <Compile Include="staticThread\InvoiceImpCancelThreadManagement.cs" />
+    <Compile Include="staticThread\PrintEInvoiceManagement.cs" />
+    <Compile Include="staticThread\ThreadCancelEinvoiceAlsx.cs" />
+    <Compile Include="staticThread\ThreadCancelEinvoiceAlsxTT78.cs" />
+    <Compile Include="staticThread\ThreadCreadIssueInvoiceHermes.cs" />
+    <Compile Include="staticThread\ThreadCreateDebitHermes.cs" />
+    <Compile Include="staticThread\ThreadCreatInvoiceManagement.cs" />
+    <Compile Include="staticThread\ThreadDebitManagement.cs" />
+    <Compile Include="staticThread\ThreadEinvoiceAlscGetDataManagement.cs" />
+    <Compile Include="staticThread\ThreadEinvoiceAlscSendDataManagement.cs" />
+    <Compile Include="staticThread\ThreadEinvoiceAlsxManagement.cs" />
+    <Compile Include="staticThread\ThreadManagement.cs" />
+    <Compile Include="ThreadBase.cs" />
+    <Compile Include="staticThread\ThreadEinvoiceAlsxTT78Management.cs" />
+    <Compile Include="WakeupTimer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PluggableModulesInterface\PluggableModulesInterface.csproj">
+      <Project>{ae159ce2-bccd-4383-9451-d37cd9afd5f7}</Project>
+      <Name>PluggableModulesInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StorageManagement\StorageManagement.csproj">
+      <Project>{6a073c67-0262-4880-acf8-bc96ea606e4a}</Project>
+      <Name>StorageManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TASK.Data\TASK.Data.csproj">
+      <Project>{8eee65f2-d555-4c1c-aca1-0a5f26b2834e}</Project>
+      <Name>TASK.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TASK.Service\TASK.Service.csproj">
+      <Project>{a837b338-2eae-4d3a-8536-71fb77f8dd0b}</Project>
+      <Name>TASK.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TASK.Settings\TASK.Settings.csproj">
+      <Project>{09e6c3f9-fe33-47ca-a173-5a17089dd14d}</Project>
+      <Name>TASK.Settings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{348db532-0cd9-43e7-a420-60f30710a2f6}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

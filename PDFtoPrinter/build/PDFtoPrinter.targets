@@ -1,0 +1,14 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="CopyResources" AfterTargets="Build">
+    <Copy
+       SourceFiles="$(MSBuildThisFileDirectory)PDFtoPrinter.exe"
+       DestinationFiles="$(OutDir)\PDFtoPrinter.exe"
+       Condition="!Exists('$(OutDir)\PDFtoPrinter.exe')" />
+  </Target>
+  <Target Name="CopyPDFtoPrinterExe" AfterTargets="Publish">
+    <Copy 
+      SourceFiles="$(MSBuildThisFileDirectory)PDFtoPrinter.exe" 
+      DestinationFolder="$(PublishDir)"
+      SkipUnchangedFiles="true" />
+  </Target>
+</Project>

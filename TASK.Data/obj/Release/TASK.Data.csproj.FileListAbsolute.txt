@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\TASK.Data.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\TASK.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\TASK.Data.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Release\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\obj\Release\TASK.Data.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\obj\Release\TASK.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\obj\Release\TASK.Data.pdb

@@ -1,0 +1,138 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\obj\Debug\DATAACCESS.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Model.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Model.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\StorageManagement.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.DATA.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\StorageManagement.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.DATA.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATAACCESS.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATAACCESS.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATABASE.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\StorageManagement.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.DATA.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Model.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Utils.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\DATABASE.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\StorageManagement.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.DATA.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Model.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\bin\Debug\Utils.pdb
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\obj\Debug\DATAACCESS.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\obj\Debug\DATAACCESS.dll
+D:\Dev\ALSC.TASKMANAGER\DATAACCESS\obj\Debug\DATAACCESS.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.pdb
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Common.dll
+D:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Common.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Common.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Common.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.xml
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.dll
+E:\Dev\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll.config
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\DATAACCESS.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Common.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Common.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\DATABASE.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\StorageManagement.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Data.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Model.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Newtonsoft.Json.xml
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\TASK.Settings.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.dll
+E:\Project\ALSC.eInvoice\DATAACCESS\obj\Debug\DATAACCESS.pdb

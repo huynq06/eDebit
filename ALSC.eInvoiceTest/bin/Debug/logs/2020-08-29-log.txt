@@ -1,0 +1,7 @@
+=========2020-08-29 12:44:59=========
+System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Convert.ToInt32(Int64 value)
+   at System.Int64.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at DATAACCESS.CheckQueryInvoiceAccess.GetAllInvoice() in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\DATAACCESS\CheckQueryInvoiceAccess.cs:line 30InvoiceCheckQuery
+

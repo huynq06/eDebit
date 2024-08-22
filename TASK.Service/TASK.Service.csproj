@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A837B338-2EAE-4D3A-8536-71FB77F8DD0B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TASK.Service</RootNamespace>
+    <AssemblyName>TASK.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\StorageManagement\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PDFtoPrinter, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFtoPrinter.1.2.1\lib\net45\PDFtoPrinter.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EInvoiceAlsxAdditionalService.cs" />
+    <Compile Include="EInvoiceAlsxAdditionalServiceTT78.cs" />
+    <Compile Include="EInvoiceAlsxCancelService.cs" />
+    <Compile Include="EInvoiceAlsxService.cs" />
+    <Compile Include="EInvoiceAlsxTT78CancelService.cs" />
+    <Compile Include="EInvoiceConnectService.cs" />
+    <Compile Include="EInvoiceImpCancelService.cs" />
+    <Compile Include="EInvoiceServiceAddtional.cs" />
+    <Compile Include="JsonFomatAlsx.cs" />
+    <Compile Include="JsonFomatInvoiceService.cs" />
+    <Compile Include="PrintDebitService.cs" />
+    <Compile Include="PrintEInvoiceService.cs" />
+    <Compile Include="PrintInvoiceHermesService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceCheckIssueDebitHermers.cs" />
+    <Compile Include="ServiceCheckIssueInvoiceHermers.cs" />
+    <Compile Include="StorageTimeService.cs" />
+    <Compile Include="Web References\vn.cinvoice.api\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{d8c38f81-66ba-424f-966c-c6dba57a20e8}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATAACCESS\DATAACCESS.csproj">
+      <Project>{55fa651d-376b-4a7e-ba5b-1d933e840f00}</Project>
+      <Name>DATAACCESS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATABASE\DATABASE.csproj">
+      <Project>{79e734f2-ea8d-44a9-8080-ce24d6095e86}</Project>
+      <Name>DATABASE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TASK.Data\TASK.Data.csproj">
+      <Project>{8eee65f2-d555-4c1c-aca1-0a5f26b2834e}</Project>
+      <Name>TASK.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TASK.Model\TASK.Model.csproj">
+      <Project>{dda86cdd-d471-4de0-998d-7e8923717f49}</Project>
+      <Name>TASK.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TASK.Settings\TASK.Settings.csproj">
+      <Project>{09e6c3f9-fe33-47ca-a173-5a17089dd14d}</Project>
+      <Name>TASK.Settings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{348db532-0cd9-43e7-a420-60f30710a2f6}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://api.cinvoice.vn/service/iv_v/ALSService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\vn.cinvoice.api\</RelPath>
+      <UpdateFromURL>http://api.cinvoice.vn/service/iv_v/ALSService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>TASK_Service_vn_cinvoice_api_ALSService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\vn.cinvoice.api\ALSService.wsdl" />
+    <None Include="Web References\vn.cinvoice.api\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\vn.cinvoice.api\ResponseMes.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\vn.cinvoice.api\ALSService.disco" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\PDFtoPrinter.1.2.1\build\PDFtoPrinter.targets" Condition="Exists('..\packages\PDFtoPrinter.1.2.1\build\PDFtoPrinter.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\PDFtoPrinter.1.2.1\build\PDFtoPrinter.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\PDFtoPrinter.1.2.1\build\PDFtoPrinter.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

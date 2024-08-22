@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Model\bin\Release\TASK.Model.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Model\bin\Release\TASK.Model.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Model\obj\Release\TASK.Model.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Model\obj\Release\TASK.Model.pdb

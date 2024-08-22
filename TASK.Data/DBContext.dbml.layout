@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.625, 15.625" name="DBContext">
+  <DataContextMoniker Name="/DBContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6e7e0544-34d4-4675-8418-e0ecebc6263b" absoluteBounds="2.75, 2.5, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/DBContextDataContext/ResponseMessage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="78dd1ff6-03d6-418e-b8a9-5e953db6f789" absoluteBounds="2.7649999999999997, 2.9600000000000009, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0b043ea5-8795-4b65-9ad4-6bac746f985d" absoluteBounds="0.5, 4, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DBContextDataContext/PrintConfig" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a102e2ce-3b4e-452a-974c-1ec5ac927bad" absoluteBounds="0.51500000000000012, 4.4600000000000009, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0870bb70-2519-4b33-9af8-209362453194" absoluteBounds="5.125, 0.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/DBContextDataContext/Print" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d3ac945-4d32-4d68-bb39-aa2b84c721ea" absoluteBounds="5.14, 0.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7cba33b4-af22-4a2c-91b3-73b8d8c85b2d" absoluteBounds="2.75, 0.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DBContextDataContext/BasePdf" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5cff7461-4d5a-4afd-8324-82fc7fd3ce3d" absoluteBounds="2.765, 1.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="40ac0c08-3b78-4cb5-8241-9a3a4f34daed" absoluteBounds="0.5, 0.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/DBContextDataContext/HermesInvoiceDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2704cd98-6da2-4bcc-85ef-6bff1617634f" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="80a67fa0-3942-4b97-90f2-acc64375e718" absoluteBounds="5.125, 4.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DBContextDataContext/InvoiceCancelCheck" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00e9d9ef-c60e-4122-9f8c-2a52faec1809" absoluteBounds="5.14, 4.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa3119d5-8ab0-4db5-9589-79570d0a9fc1" absoluteBounds="5, 6.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DBContextDataContext/HolidayConfig" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90c12ce8-0cce-4d21-b634-64a039d7e1d9" absoluteBounds="5.015, 6.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="888c767c-6354-4536-90fa-f08a7078fddf" absoluteBounds="8, 2, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DBContextDataContext/InvoiceCheckQuery" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc4e157c-0f9d-46b3-993c-63243c598497" absoluteBounds="8.015, 2.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="515e3007-4a88-4e8c-8f22-5d9bc503622c" absoluteBounds="9.375, 5, 2, 10.424461263020833">
+      <DataClassMoniker Name="/DBContextDataContext/HermesInvoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90670fe6-7d19-4c39-9c7d-abd0fa04633f" absoluteBounds="9.39, 5.46, 1.9700000000000002, 9.8644612630208321" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Release\PluggableModulesInterface.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Release\PluggableModulesInterface.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Release\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\bin\Release\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\obj\Release\PluggableModulesInterface.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\obj\Release\PluggableModulesInterface.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PluggableModulesInterface\obj\Release\PluggableModulesInterface.pdb

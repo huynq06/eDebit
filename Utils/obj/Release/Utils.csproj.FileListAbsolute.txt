@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\bin\Release\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\bin\Release\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\obj\Release\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\obj\Release\Utils.pdb

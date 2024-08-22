@@ -1,0 +1,28 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.ErrorMessages.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.pdb
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.dll
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.pdb
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.ErrorMessages.resources
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csproj.GenerateResource.Cache
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.dll
+D:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.pdb
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.dll
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.pdb
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.ErrorMessages.resources
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csproj.GenerateResource.Cache
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.dll
+E:\Dev\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.pdb
+E:\Project\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.dll
+E:\Project\ALSC.eInvoice\PDFtoPrinter\bin\Debug\PDFtoPrinter.pdb
+E:\Project\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.ErrorMessages.resources
+E:\Project\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.csproj.GenerateResource.Cache
+E:\Project\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.dll
+E:\Project\ALSC.eInvoice\PDFtoPrinter\obj\Debug\PDFtoPrinter.pdb

@@ -1,0 +1,15 @@
+﻿Installing assembly 'D:\Dev\ALSC.eInvoice\ALSC.eInvoice\bin\Debug\ALSC.eInvoice.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Dev\ALSC.eInvoice\ALSC.eInvoice\bin\Debug\ALSC.eInvoice.InstallLog
+   assemblypath = D:\Dev\ALSC.eInvoice\ALSC.eInvoice\bin\Debug\ALSC.eInvoice.exe
+   logtoconsole = 
+Installing service EInvoiceAlscService...
+Service EInvoiceAlscService has been successfully installed.
+Creating EventLog source EInvoiceAlscService in log Application...
+Committing assembly 'D:\Dev\ALSC.eInvoice\ALSC.eInvoice\bin\Debug\ALSC.eInvoice.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Dev\ALSC.eInvoice\ALSC.eInvoice\bin\Debug\ALSC.eInvoice.InstallLog
+   assemblypath = D:\Dev\ALSC.eInvoice\ALSC.eInvoice\bin\Debug\ALSC.eInvoice.exe
+   logtoconsole = 

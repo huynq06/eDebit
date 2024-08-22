@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.dll
+D:\Dev\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.pdb
+D:\Dev\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.dll
+D:\Dev\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.pdb
+D:\Dev\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.dll
+E:\Dev\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.dll
+E:\Dev\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.pdb
+E:\Project\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.dll
+E:\Project\ALSC.eInvoice\TASK.Model\bin\Debug\TASK.Model.pdb
+E:\Project\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.dll
+E:\Project\ALSC.eInvoice\TASK.Model\obj\Debug\TASK.Model.pdb

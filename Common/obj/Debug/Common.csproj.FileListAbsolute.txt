@@ -1,0 +1,58 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\Common.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\Common.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\Common\obj\Debug\Common.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\Common\obj\Debug\Common.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\TASK.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\TASK.Data.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\Common.dll
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\Common.pdb
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Data.dll
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Data.pdb
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\Common\obj\Debug\Common.dll
+D:\Dev\ALSC.eInvoice\Common\obj\Debug\Common.pdb
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Model.dll
+D:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\Common.dll
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\Common.pdb
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Data.dll
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Model.dll
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.dll
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Data.pdb
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.xml
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.pdb
+E:\Dev\ALSC.eInvoice\Common\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\Common\obj\Debug\Common.dll
+E:\Dev\ALSC.eInvoice\Common\obj\Debug\Common.pdb
+E:\Project\ALSC.eInvoice\Common\bin\Debug\Common.dll
+E:\Project\ALSC.eInvoice\Common\bin\Debug\Common.pdb
+E:\Project\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.dll
+E:\Project\ALSC.eInvoice\Common\bin\Debug\TASK.Data.dll
+E:\Project\ALSC.eInvoice\Common\bin\Debug\TASK.Model.dll
+E:\Project\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.dll
+E:\Project\ALSC.eInvoice\Common\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\Common\bin\Debug\TASK.Data.pdb
+E:\Project\ALSC.eInvoice\Common\bin\Debug\Newtonsoft.Json.xml
+E:\Project\ALSC.eInvoice\Common\bin\Debug\TASK.Model.pdb
+E:\Project\ALSC.eInvoice\Common\bin\Debug\TASK.Settings.pdb
+E:\Project\ALSC.eInvoice\Common\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\Common\obj\Debug\Common.dll
+E:\Project\ALSC.eInvoice\Common\obj\Debug\Common.pdb

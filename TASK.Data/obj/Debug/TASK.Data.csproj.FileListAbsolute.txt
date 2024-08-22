@@ -1,0 +1,46 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll.config
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.pdb
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.dll
+D:\Dev\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.pdb
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Model.dll
+D:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll.config
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.pdb
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Model.dll
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.dll
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.pdb
+E:\Dev\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.dll
+E:\Dev\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.pdb
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll.config
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.dll
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Data.pdb
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Model.dll
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.dll
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Model.pdb
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\TASK.Settings.pdb
+E:\Project\ALSC.eInvoice\TASK.Data\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.dll
+E:\Project\ALSC.eInvoice\TASK.Data\obj\Debug\TASK.Data.pdb

@@ -1,0 +1,120 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\PDFtoPrinter.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Common.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\TASK.Business\bin\Debug\Common.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Common.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\PDFtoPrinter.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Common.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.pdb
+D:\Dev\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.dll
+D:\Dev\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Common.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\PDFtoPrinter.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.xml
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\Common.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.pdb
+E:\Dev\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.dll
+E:\Dev\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Business.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Common.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\PDFtoPrinter.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\PluggableModulesInterface.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\StorageManagement.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Data.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Service.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Settings.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Newtonsoft.Json.xml
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\TASK.Model.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\Common.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\DATAACCESS.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\bin\Debug\DATABASE.pdb
+E:\Project\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.dll
+E:\Project\ALSC.eInvoice\TASK.Business\obj\Debug\TASK.Business.pdb

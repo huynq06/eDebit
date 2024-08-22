@@ -1,0 +1,5 @@
+=========2020-08-26 08:56:22=========
+System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Common.HttpRequest.Execute(Object obj, String verb, String caller, Boolean& check) in C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Common\HttpRequest.cs:line 70
+

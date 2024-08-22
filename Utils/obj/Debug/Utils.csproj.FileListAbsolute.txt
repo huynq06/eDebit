@@ -1,0 +1,30 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\Utils\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\Utils\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\Utils\obj\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\Utils\obj\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.TASKMANAGER\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.TASKMANAGER\Utils\bin\Debug\Utils.dll
+D:\Dev\ALSC.TASKMANAGER\Utils\bin\Debug\Utils.pdb
+D:\Dev\ALSC.TASKMANAGER\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\Dev\ALSC.TASKMANAGER\Utils\obj\Debug\Utils.dll
+D:\Dev\ALSC.TASKMANAGER\Utils\obj\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\bin\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\bin\Debug\Utils.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\obj\Debug\Utils.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\ALSC.eInvoice\Utils\obj\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\Utils\bin\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\Utils\bin\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\Utils\obj\Debug\Utils.dll
+D:\Dev\ALSC.eInvoice\Utils\obj\Debug\Utils.pdb
+D:\Dev\ALSC.eInvoice\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\Utils\bin\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\Utils\bin\Debug\Utils.pdb
+E:\Dev\ALSC.eInvoice\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\Dev\ALSC.eInvoice\Utils\obj\Debug\Utils.dll
+E:\Dev\ALSC.eInvoice\Utils\obj\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\Utils\bin\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\Utils\bin\Debug\Utils.pdb
+E:\Project\ALSC.eInvoice\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\Project\ALSC.eInvoice\Utils\obj\Debug\Utils.dll
+E:\Project\ALSC.eInvoice\Utils\obj\Debug\Utils.pdb
