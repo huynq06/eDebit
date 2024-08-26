@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALSC.eInvoiceGetDataFromHer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebitTest", "DebitTest\DebitTest.csproj", "{F80610BE-8D82-4FD1-8C0B-A89C9E5676E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALSC.eDebit", "ALSC.eDebit\ALSC.eDebit.csproj", "{583FDE54-FAEE-420A-AEED-4DA636E1ABB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{F80610BE-8D82-4FD1-8C0B-A89C9E5676E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F80610BE-8D82-4FD1-8C0B-A89C9E5676E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F80610BE-8D82-4FD1-8C0B-A89C9E5676E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583FDE54-FAEE-420A-AEED-4DA636E1ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583FDE54-FAEE-420A-AEED-4DA636E1ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583FDE54-FAEE-420A-AEED-4DA636E1ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583FDE54-FAEE-420A-AEED-4DA636E1ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

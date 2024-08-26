@@ -29,3 +29,6 @@ E:\Project\ALSC.eInvoice\DebitTest\bin\Debug\DATABASE.pdb
 E:\Project\ALSC.eInvoice\DebitTest\obj\Debug\DebitTest.csprojResolveAssemblyReference.cache
 E:\Project\ALSC.eInvoice\DebitTest\obj\Debug\DebitTest.exe
 E:\Project\ALSC.eInvoice\DebitTest\obj\Debug\DebitTest.pdb
+E:\Project\ALSC.eDebit\DebitTest\bin\Debug\DebitTest.exe.config
+E:\Project\ALSC.eDebit\DebitTest\obj\Debug\DebitTest.exe
+E:\Project\ALSC.eDebit\DebitTest\obj\Debug\DebitTest.pdb
